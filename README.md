@@ -32,7 +32,7 @@ I'm a passionate **Backend Developer** focused on building scalable, maintainabl
 | Category | Tools |
 |-----------|-------|
 | **Languages** | JavaScript (ES6+), TypeScript |
-| **Frameworks** | Node.js, Express.js, NestJS |
+| **Frameworks** | Node.js, Express.js, NestJS, Fastify |
 | **Databases** | PostgreSQL, MongoDB |
 | **ORM / ODM** | Prisma, Mongoose |
 | **Security & Auth** | JWT, OAuth 2.0, Bcrypt, Crypto |
